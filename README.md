@@ -10,12 +10,6 @@
 
 
 
-
-
-
-
-
-
 5. Lilya Lagunova
 
 
