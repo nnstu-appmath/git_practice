@@ -8,4 +8,4 @@
 2. Капустин Михаил
 n. Трифонов Игорь кто в ETS?
 7. Shabashov Nikita
-
+е. Palchuck Dmitriy
