@@ -3,9 +3,11 @@
 Тестовый репозиторий для практики git
 
 Список групп:
-
 1. Surname FirstName
 2. Капустин Михаил
-n. Трифонов Игорь кто в ETS?
-7. Shabashov Nikita
-е. Palchuck Dmitriy
+3. Трифонов Игорь кто в ETS?
+4. Shabashov Nikita
+5. 13. Ivan Smirnov
+6. Tolstov Danila
+7. Карлов Дмитрий
+8. Пальчук Дмитрий
