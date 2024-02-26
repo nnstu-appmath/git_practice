@@ -5,7 +5,8 @@
 Список групп:
 
 1. Surname FirstName
-2
+
+
 
 
 
@@ -36,3 +37,4 @@
 
 
 n. Трифонов Игорь кто в ETS?
+7. Shabashov Nikita
